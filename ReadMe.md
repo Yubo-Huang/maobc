@@ -10,7 +10,7 @@ This codebase is the implementation of paper named **Optimizing an offline reinf
 First, cloning this repo to your local computer using 
 
 ```
-git clone https://github.com/LuckyYubo/maobc.git
+git clone https://github.com/Yubo-Huang/maobc.git
 
 cd maobc
 ```
