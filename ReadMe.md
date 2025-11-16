@@ -20,3 +20,17 @@ Then, running the `.sh` file:
 ```
 ./run_dual.sh
 ```
+
+## Reference
+
+Welcome to cite our paper if you find our code is helpful
+
+```
+@article{huang2025wind,
+  title={Wind Farm Control via Offline Reinforcement Learning With Adversarial Training},
+  author={Huang, Yubo and Zhao, Xiaowei},
+  journal={IEEE Transactions on Automation Science and Engineering},
+  year={2025},
+  publisher={IEEE}
+}
+```
